@@ -18,10 +18,14 @@ const defaultMenu = {
   ⬣───「 *DASHBOARD* 」───⬣
   
 ┌─── 「 TODAY 」───⬣
+ _Selamat 🌙 Menunaikan Ibadah Puasa 😇_ 
+1443 Hijriah
 │☂︎ *Days:* %week %weton
 │☂︎ *Date:* %date
 │☂︎ *Islamic Date:* %dateIslamic
-│☂︎ *Time:* %time
+│☂︎• Wib : ${wib}
+  • Wita : ${wita}
+  • Wit : ${wit}
 ╰────────────⬣
 ┌───「 INFO USER 」──⬣
 │☂︎ Name: %name
