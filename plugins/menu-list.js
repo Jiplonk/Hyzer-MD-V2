@@ -23,9 +23,7 @@ const defaultMenu = {
 │☂︎ *Days:* %week %weton
 │☂︎ *Date:* %date
 │☂︎ *Islamic Date:* %dateIslamic
-│☂︎• Wib : ${wib}
-  • Wita : ${wita}
-  • Wit : ${wit}
+│☂︎ *Time:* %time
 ╰────────────⬣
 ┌───「 INFO USER 」──⬣
 │☂︎ Name: %name
